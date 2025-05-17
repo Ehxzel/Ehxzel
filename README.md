@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>        Passionately Curious about God<br>AI/ML  || Software || Cloud || Python || IoT<br>                   <br>                       ⚡ Fun fact<br>           Curiosity is my biggest Drive 🔭
+<br>        Passionately Curious about God<br>AI/ML  || Software || Cloud || Python || IoT<br>                   <br>                       ⚡ Fun fact<br>           Excellence. Creativity. Virtuosity. 🔭
 
 
 ## 🌐 Socials:
