@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>        Passionately Curious about God<br>AI/ML  || Software || Cloud || Python || IoT<br>                   <br>                       ⚡ Fun fact<br>           Excellence. Creativity. Virtuosity. 🔭
+<br>        Driving excellence in AI/ML, Software, Cloud, Python, and IoT through passionate curiosity and virtuosity.<br>                   <br>                       ⚡ Fun fact<br>       Excellence. Creativity. Virtuosity. 🔭
 
 
 ## 🌐 Socials:
