@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>        Driving excellence in AI/ML, Software, Cloud, Python, and IoT through passionate curiosity and virtuosity.<br>                   <br>                       ⚡ Fun fact<br>       My internal operating system runs on <b>Excellence</b>. <b>Creativity</b> is my Co-pilot. And <b>Virtuosity?</b> That's just how I <b>execute</b>. 🔭
+<br>        Driving excellence in AI, Automation, Software, Cloud, Python, and IoT through passionate curiosity and virtuosity.<br>                   <br>                       ⚡ Fun fact<br>       My internal operating system runs on <b>Excellence</b>. <b>Creativity</b> is my Co-pilot. And <b>Virtuosity?</b> That's just how I <b>execute</b>. 🔭
 
 
 ## 🌐 Socials:
