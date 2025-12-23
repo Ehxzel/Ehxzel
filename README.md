@@ -1,22 +1,22 @@
 # 👋 Hey, I'm Ehxzel
 
-> Driving excellence in AI, Software, Cloud, Robotics, and IoT through passionate curiosity and virtuosity.
+> Building cool stuff with AI, Software, Cloud, Robotics, and IoT. Driven by curiosity and a love for creating.
 
-### ⚡ My Operating System
-My internal OS runs on **Excellence**. **Creativity** is my co-pilot. And **Virtuosity?** That's just how I **execute**.
+### ⚡ How I Work
+My brain runs on **Excellence**. **Creativity** is my co-pilot. And **Virtuosity?** That's just how I **roll**.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehuike-ehxodus-1204462ab/) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/N_Ehxzel7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Ehysoft)
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🛠️ What I Work With
 
-### Programming & Web
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### Languages & Web
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Cloud & Deployment
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
@@ -32,7 +32,7 @@ My internal OS runs on **Excellence**. **Creativity** is my co-pilot. And **Virt
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 My GitHub Stats
 
 <div align="center">
 
@@ -58,7 +58,7 @@ My internal OS runs on **Excellence**. **Creativity** is my co-pilot. And **Virt
 
 ---
 
-## 💭 Daily Inspiration
+## 💭 Quote of the Day
 
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
