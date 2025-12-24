@@ -9,7 +9,7 @@ My brain runs on **Excellence**. **Creativity** is my co-pilot. And **Virtuosity
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://[www.linkedin.com/in/ehuike-njoetele-1204462ab/]) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/N_Ehxzel7) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehuike-njoetele-1204462ab/) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/N_Ehxzel7) 
 
 ---
 
