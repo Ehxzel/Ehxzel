@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Ehxzel
-> Building cool stuff with AI, Software, and Cloud. Robotics & IoT enthusiast, driven by curiosity and a love for creating.
+> Building cool stuff with AI, Software, and Electronics. Robotics & IoT enthusiast, driven by curiosity and a love for creating.
 
 ### ⚡ How I Work
-My brain runs on **Excellence**. **Creativity** is my co-pilot. And **Virtuosity?** That's just how I **roll**.
+I **ship the code first**, then polish after. I believe firmly that **"broken-but-live"** beats "perfect-but-theoretical", every time.
 
 ---
 
